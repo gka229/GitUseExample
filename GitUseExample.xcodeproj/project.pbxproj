@@ -15,6 +15,7 @@
 		AB7CEC8B24F7694B00AD6494 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB7CEC8924F7694B00AD6494 /* LaunchScreen.storyboard */; };
 		AB7CEC9624F7694C00AD6494 /* GitUseExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7CEC9524F7694C00AD6494 /* GitUseExampleTests.swift */; };
 		AB7CECA124F7694C00AD6494 /* GitUseExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7CECA024F7694C00AD6494 /* GitUseExampleUITests.swift */; };
+		AB7CECAF24F76DCA00AD6494 /* MapForltinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB7CECAE24F76DCA00AD6494 /* MapForltinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AB7CEC9C24F7694C00AD6494 /* GitUseExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUseExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB7CECA024F7694C00AD6494 /* GitUseExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitUseExampleUITests.swift; sourceTree = "<group>"; };
 		AB7CECA224F7694C00AD6494 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB7CECAE24F76DCA00AD6494 /* MapForltinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForltinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AB7CEC8724F7694B00AD6494 /* Assets.xcassets */,
 				AB7CEC8924F7694B00AD6494 /* LaunchScreen.storyboard */,
 				AB7CEC8C24F7694B00AD6494 /* Info.plist */,
+				AB7CECAE24F76DCA00AD6494 /* MapForltinerary.swift */,
 			);
 			path = GitUseExample;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				AB7CEC8324F7694B00AD6494 /* ViewController.swift in Sources */,
 				AB7CEC7F24F7694B00AD6494 /* AppDelegate.swift in Sources */,
 				AB7CEC8124F7694B00AD6494 /* SceneDelegate.swift in Sources */,
+				AB7CECAF24F76DCA00AD6494 /* MapForltinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
